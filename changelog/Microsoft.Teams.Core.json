@@ -5749,6 +5749,25 @@
       "CreatedDateTime": "2022-08-19T00:00:00",
       "WorkloadArea": "Teamwork",
       "SubArea": ""
+    },
+	,
+    {
+      "ChangeList": [
+        {
+          "Id": "e473f528-d700-4803-9985-6db1bde5c17f",
+          "ApiChange": "Resource",
+          "ChangedApiName": "Chat.ReadBasic.WhereInstalled,Chat.Read.WhereInstalled,Chat.ReadWrite.WhereInstalled,ChatMember.Read.WhereInstalled,ChatMember.ReadWriteWhereInstalled",
+          "ChangeType": "Addition",
+          "Description": "Added new permissions [Chat.ReadBasic.WhereInstalled](https://docs.microsoft.com/en-us/graph/permissions-reference#chat-permissions), [Chat.Read.WhereInstalled](https://docs.microsoft.com/en-us/graph/permissions-reference#chat-permissions), [Chat.ReadWrite.WhereInstalled](https://docs.microsoft.com/en-us/graph/permissions-reference#chat-permissions), [ChatMember.Read.WhereInstalled](https://docs.microsoft.com/en-us/graph/permissions-reference#chat-membership-permissions), [ChatMember.ReadWrite.WhereInstalled](https://docs.microsoft.com/en-us/graph/permissions-reference#chat-membership-permissions).",
+          "Target": "Chat.ReadBasic.WhereInstalled,Chat.Read.WhereInstalled,Chat.ReadWrite.WhereInstalled,ChatMember.Read.WhereInstalled,ChatMember.ReadWriteWhereInstalled"
+        }
+      ],
+      "Id": "e473f528-d700-4803-9985-6db1bde5c17f",
+      "Cloud": "prd",
+      "Version": "beta",
+      "CreatedDateTime": "2022-08-19T00:00:00",
+      "WorkloadArea": "Teamwork",
+      "SubArea": ""
     }
   ]
 }
